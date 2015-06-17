@@ -1,0 +1,26 @@
+body {
+	font-family: 'Montserrat', sans-serif; 
+	background: RGBA(243, 241, 234, 1);
+	font-size: 3em;
+}
+
+header {
+	color: #394256;
+	background-color: #F8DED2;;
+	overflow: hidden;
+	padding: 1em;
+	box-shadow: 0px 5px 5px 0px #888888;
+}
+
+.title {
+	text-align: center;
+}	
+
+.add-app {
+	color: #394256;
+	text-decoration: none;
+	position: absolute;
+	right: 1em;
+	top: 1em;
+}
+
